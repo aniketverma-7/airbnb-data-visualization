@@ -1,5 +1,4 @@
-![image](files/Users/jzhang/Desktop/Isolated.png)
-
+<img width="1705" alt="dashboard" src="https://github.com/user-attachments/assets/fc644e33-6b11-4072-9b62-fe3cd53ed6fa">
 
 # Airbnb Insights in New York City
 
