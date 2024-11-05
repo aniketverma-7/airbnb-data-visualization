@@ -1,3 +1,5 @@
 /.idea/
 /airbnb.csv
 /.venv/
+.DS_Store
+ __pycache__
