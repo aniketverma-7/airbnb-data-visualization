@@ -1,3 +1,6 @@
+![image](files/Users/jzhang/Desktop/Isolated.png)
+
+
 # Airbnb Insights in New York City
 
 This project is a **Dash web application** that provides insights into Airbnb listings across New York City. The application allows users to explore and visualize Airbnb data through interactive features such as:
